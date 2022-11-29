@@ -1,0 +1,1 @@
+1.  Difference between post and get. POST data is in the body, GET data is in the URL. POST is considered more secure. 
